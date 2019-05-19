@@ -1,0 +1,14 @@
+{
+  "name": "primera_entrega",
+  "version": "1.0.1",
+  "description": "primeraEntrega",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Sanchez jssanchezo@unal.edu.co",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
