@@ -1,0 +1,6 @@
+Id: 4
+Nombre: Programacion web
+Duracion: 6 meses
+Valor: 150000
+Nombre interesado: Juan
+Cedula: 103
