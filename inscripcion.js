@@ -50,7 +50,6 @@ if(id == undefined){
 				if(err) throw(err);
 				console.log('se ha creado el archivo')
 		});
-
 		}
 	}
 
